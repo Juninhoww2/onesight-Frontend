@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "new-user_31",
+    "MONGO_PASSWORD": "new-user_31",
+    "MONGO_DB": "myFirstDatabase?retryWrites=true&w=majority"
+  }
+}
